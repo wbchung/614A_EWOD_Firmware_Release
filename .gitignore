@@ -1,0 +1,28 @@
+
+# ==========================================
+# Firmware Release Repository
+# STM32 / FPGA / Technical Documents
+# ==========================================
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Office temporary files
+~$*
+*.tmp
+*.temp
+
+# Editor temporary / backup files
+*~
+*.swp
+*.swo
+*.bak
+
+# Local log files
+*.log
+
+# Optional: personal working directories
+Temp/
+Backup/
